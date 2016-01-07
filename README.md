@@ -7,7 +7,6 @@ Author : Om Talsania
 Email: [omtalsania@geekypedia.net](mailto:omtalsania@geekypedia.net)  
 Website: [geekypedia.net](http://geekypedia.net)  
 Blog: [blog.geekypedia.net](http://blog.geekypedia.net)  
-Version : 0.1.0
 
 ####**DEPENDENCIES**
 This framework loosely depends on the following 3rd party open source framework. The core API framework doesn't really need them, but using them will make a lot of things easier.
