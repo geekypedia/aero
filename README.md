@@ -2,7 +2,7 @@
 >It is a small footprint PHP API framework that turns your classes into full blown RESTful APIs.
 
 ####**INFO**
-Version : 0.1.0  
+Version : 0.1.1  
 Author : Om Talsania  
 Email: [omtalsania@geekypedia.net](mailto:omtalsania@geekypedia.net)  
 Website: [geekypedia.net](http://geekypedia.net)  
